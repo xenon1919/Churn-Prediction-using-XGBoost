@@ -72,5 +72,5 @@ Special thanks to the **Streamlit** and **XGBoost** communities!
 
 ---
 
-Made with ❤️ by [Ramanchi Rishi Sai Teja]
+Made with ❤️ by Ramanchi Rishi Sai Teja
 
